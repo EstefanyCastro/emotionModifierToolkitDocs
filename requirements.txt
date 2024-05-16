@@ -1,0 +1,3 @@
+express
+swagger-jsdoc
+swagger-ui-express
