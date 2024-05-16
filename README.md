@@ -35,6 +35,6 @@ This application includes Swagger documentation to facilitate its use. You can a
 
 http://localhost:3000/api-docs
 
-### Swagger documentation
+### Try it now!
 
 Once you have started the application and reviewed the Swagger documentation, you can try it out now! Use the endpoints provided in the documentation to manage emotional entities and their emotions.
