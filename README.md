@@ -31,9 +31,7 @@ node index.js
 
 ### Swagger documentation
 
-This application includes Swagger documentation to facilitate its use. You can access the Swagger documentation in your web browser by visiting the following link:
-
-http://localhost:3000/api-docs
+This application includes Swagger documentation to facilitate its use. You can access the Swagger documentation in your web browser by visiting the following link https://xwyfsg0gdj.execute-api.us-east-2.amazonaws.com/api-docs/. If you prefer to test the application on your own local machine, you can run it on localhost http://localhost:3000/api-docs
 
 ### Try it out!
 
